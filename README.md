@@ -60,6 +60,14 @@
 <a href="mailto:arayanmemon338@gmail.com"><img src="https://img.shields.io/badge/-arayanmemon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/arayan7710/"><img src="https://img.shields.io/badge/-@arayan7710-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+  
+## Personal Projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
+|-------------|-------------------|---|---| ----|
+| [**Weather App**](https://github.com/Arayanmemon/Weather-app) | [![GitHub issues](https://img.shields.io/github/issues/arayanmemon/Weather-app?color=green&logo=github&style=flat)](https://github.com/Arayanmemon/Weather-app/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/arayanmemon/Weather-app?style=flat&logo=github)](https://github.com/arayanmemon/Weather-app/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/arayanmemon/Weather-app?style=flat&color=critical&logo=github)](https://github.com/arayanmemon/Weather-app/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/arayanmemon/Weather-app?color=blue&logo=github&style=flat)](https://github.com/arayanmemon/Weather-app/commits/) |
+| [**Github Profile**](https://github.com/arayanmemon/arayanmemon) | [![GitHub issues](https://img.shields.io/github/issues/arayanmemon/arayanmemon?color=green&logo=github&style=flat)](https://github.com/arayanmemon/arayanmemon/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/arayanmemon/arayanmemon?style=flat&logo=github)](https://github.com/arayanmemon/arayanmemon/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/arayanmemon/arayanmemon?style=flat&color=critical&logo=github)](https://github.com/arayanmemon/arayanmemon/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/arayanmemon/arayanmemon?color=blue&logo=github&style=flat)](https://github.com/arayanmemon/arayanmemon/commits/) |
+| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
 <!--
 Here are some ideas to get you started:
 

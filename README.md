@@ -1,8 +1,13 @@
-### Hi there 👋
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Muhammad Arayan👋<a href="#"></h1>
+  </div>
+<p align="center">
+<a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+Developer;Crypto+Geek;Laravel+Developer&center=true&width=500&height=50"></a>
+
+
 
 <!--
-**Arayanmemon/Arayanmemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -73,7 +73,7 @@
  <h2>GitHub Analytics</h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
+<a href="https://github.com/arayanmemon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arayanmemon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arayanmemon&layout=compact&langs_count=8&theme=radical"/>
 </a>

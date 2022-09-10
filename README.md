@@ -30,7 +30,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     </td>
  
 </tr>

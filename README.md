@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Web Developer @Upwork.
 - 🌱 I’m currently expanding my knowledge in Backend Development.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
 
 <h2>Tech Stack</h2>
@@ -43,7 +43,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
  <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="80">
     </td>
      <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="80">
